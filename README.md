@@ -4,7 +4,8 @@ Esta es una aplicación interactiva desarrollada en JavaScript que se ejecuta di
 
 Cómo Ejecutar el Proyecto
 
-Abrir el archivo: Localiza el archivo `index.html` en la carpeta del proyecto y ábrelo con cualquier navegador moderno (Chrome, Edge, Firefox).
+Abrir el archivo: Localiza el archivo `index.html` en la carpeta del proyecto y abrelo con el navegador.
+
 Abrir la Consola:
 En Windows presionar F12 o Ctrl + Shift + J.
    
