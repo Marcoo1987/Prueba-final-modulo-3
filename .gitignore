@@ -1,0 +1,8 @@
+*.pdf
+"💼Proyecto Módulo _ ABP .pdf"
+# Otros archivos comunes a ignorar
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
+.idea/
